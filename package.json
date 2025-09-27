@@ -1,0 +1,16 @@
+{
+  "name": "ac-calendar-bot-en",
+  "version": "1.0.0",
+  "description": "Animal Crossing daily calendar bot (English) with villagers DB, scheduler, and admin UI. Calendar posts are plain text (no embeds).",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "discord.js": "^14.15.3",
+    "luxon": "^3.5.0",
+    "node-cron": "^3.0.3"
+  }
+}

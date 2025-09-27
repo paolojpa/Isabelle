@@ -1,0 +1,14 @@
+{
+  "token": "TU_TOKEN_AQUI",
+  "prefix": "!",
+  "roles": {
+    "admin_role_id": "0",
+    "mod_role_id": "0",
+    "event_news_role_id": "0"
+  },
+  "defaults": {
+    "timezone": "America/Buenos_Aires",
+    "post_hour": 9,
+    "hemisphere": "north"
+  }
+}
